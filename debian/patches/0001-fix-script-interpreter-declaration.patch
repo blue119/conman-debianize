@@ -1,0 +1,18 @@
+diff --git a/lib/alpha.exp b/lib/alpha.exp
+index b1e0ad1..3aa8f9b 100644
+--- a/lib/alpha.exp
++++ b/lib/alpha.exp
+@@ -1,3 +1,4 @@
++#!/usr/bin/expect --
+ ###############################################################################
+ # Alpha Library Functions (ALF)
+ ###############################################################################
+diff --git a/lib/conman.exp b/lib/conman.exp
+index 5ef04b1..1146416 100644
+--- a/lib/conman.exp
++++ b/lib/conman.exp
+@@ -1,3 +1,4 @@
++#!/usr/bin/expect --
+ ###############################################################################
+ # ConMan Expect Language Library (CELL)
+ ###############################################################################
